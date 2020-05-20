@@ -1,0 +1,29 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (3.0.0)
+    dotenv (2.7.5)
+    json (2.3.0)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.9)
+      mini_portile2 (~> 2.4.0)
+    regexp_parser (1.7.0)
+    rubyzip (2.2.0)
+    selenium-webdriver (3.142.7)
+      childprocess (>= 0.5, < 4.0)
+      rubyzip (>= 1.2.2)
+    watir (6.16.5)
+      regexp_parser (~> 1.2)
+      selenium-webdriver (~> 3.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  json
+  nokogiri
+  watir
+
+BUNDLED WITH
+   2.1.2
