@@ -19,6 +19,7 @@ require_relative '../../app/case_types.rb'
 
 # lib
 require_relative '../../lib/prompts.rb'
+include Prompt
 
 # hackaround to quiet terminal warnings
 $VERBOSE = nil

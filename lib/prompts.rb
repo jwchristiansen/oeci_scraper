@@ -20,7 +20,7 @@ module Prompt
 
 	def date
 		print 'Date [Format YYYY-MM-DD]: '
-		@@search_date = gets
+		@@search_date = Date.parse gets
 		puts ''
 	end
 
