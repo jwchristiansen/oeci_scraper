@@ -8,7 +8,7 @@ Like so (results saved to JSON in plain text file):
 
 ## Tutorial
 
-To get started, you can check out [my walk-through](https://joelc.io/build-court-records-scraper).
+To get started, you can check out [my walk-through](https://archive.joelc.io/build-court-records-scraper).
 
 ## Disclaimer
 
