@@ -2,8 +2,6 @@
 
 `oeci_scraper` scrapes case information from the Oregon eCourt Case Information (OECI) system.
 
-![oeci_scraper demo](https://oeci-scraper-production.s3-us-west-2.amazonaws.com/web-scraper-demo.gif)
-
 ## Tutorial
 
 To get started, you can check out [my walk-through](https://joelc.io/build-court-records-scraper).
