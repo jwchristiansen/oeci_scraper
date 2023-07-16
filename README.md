@@ -1,8 +1,6 @@
 # oeci_scraper
 
-`oeci_scraper` scrapes case information from the Oregon eCourt Case Information (OECI) system and spits it out as data objects.
-
-Like so (results saved to JSON in plain text file):
+`oeci_scraper` scrapes case information from the Oregon eCourt Case Information (OECI) system.
 
 ![oeci_scraper demo](https://oeci-scraper-production.s3-us-west-2.amazonaws.com/web-scraper-demo.gif)
 
